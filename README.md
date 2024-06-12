@@ -23,13 +23,13 @@
 
 3. [Mounting the Remote Directory of Data Server](mountingRemoteDirectory.pptx)
  
-4. [Database account](creatingDatabaseUserAccount.pptx)
+4. [Account Creation in the Database Server](creatingDatabaseUserAccount.pptx)
 
 4. [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
 5. Lab WiFi account
 
-6. [PyCharm educational licence](pycharmEducationalLicense.pdf)
+6. [PyCharm educational licence](pycharmEducationalLicense.pptx)
 
 7. Microsoft student account
 
