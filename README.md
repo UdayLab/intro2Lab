@@ -15,16 +15,27 @@
 | [Khalifa6](http://163.143.165.145:8000/) | 	163.143.165.145	 | CPU-server with PCIe Gen4 Storage |
 |------------------------------------------|-------------------|-----------------------------------|
 
-## Account Creation
+## New Users 
 
-1. [Computing account](userAccountCreation_1.pdf)
-2. [Database account](creatingDatabaseUserAccount_2.pdf)
-3. Discord account
-4. Lab WiFi account
-5. PyCharm educational licence
-6. Microsoft student account
-7. Github account
-8. [VPN setup](https://web-int.u-aizu.ac.jp/labs/istc/ipc/service/ains-vpn/vpn-e.html)
+1. [Account Creation in the Computing Server](accountCreationInComputingServer.pptx)
+
+2. [Account Creation in the Data Server](accountCreationInDataServer.pptx)
+
+3. [Mounting the Remote Directory of Data Server](mountingRemoteDirectory.pptx)
+ 
+4. [Database account](creatingDatabaseUserAccount.pptx)
+
+4. [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
+
+5. Lab WiFi account
+
+6. [PyCharm educational licence](pycharmEducationalLicense.pdf)
+
+7. Microsoft student account
+
+8. [Github account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#1-creating-an-account)
+
+9. [VPN setup](https://web-int.u-aizu.ac.jp/labs/istc/ipc/service/ains-vpn/vpn-e.html)
 
 
 ## Tutorials
@@ -41,7 +52,7 @@
 5. [MarkDown](practiseMarkDownAndPythonInJupyterNotebook_5.pdf)
 6. Python
    - Pycharm 
-     - Interface
+     - Installation and Interface
      - Installation of packages
      - Github Connection
      - Fork, Pull, Commit, and Push
