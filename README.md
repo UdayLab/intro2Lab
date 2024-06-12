@@ -62,7 +62,7 @@
      - Creation of Functions and Classes
      - Sphinx documentation
 7. Google Collab
-    - Basics
+    - [Basics](https://1drv.ms/p/s!Ar09XhBKBP2Mm9wMt3wfMCAh0l8jow)
     - Advanced
 8. Postgres database
    - SQL 
