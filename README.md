@@ -69,3 +69,6 @@
    - Backup and Restore
    - Database Connectivity With Python
 9. PAMI
+10. Remittances
+    - [Paying money for admission fees](remittingMoneyForAdmissionFees.pptx)
+    - [Transferring money to other accounts](remittingMoneyFromSavedAccounts.pptx)
