@@ -51,7 +51,7 @@
 4. [Github](GithubTutorial.pdf)
 5. [MarkDown](practiseMarkDownAndPythonInJupyterNotebook_5.pdf)
 6. Python
-   - Pycharm 
+   - [Pycharm](pycharmBasics.pptx) 
      - Installation and Interface
      - Installation of packages
      - Github Connection
@@ -59,12 +59,12 @@
    - Coding
      - Project creation
      - Main function and terminal execution
-     - Creation of Functions and Classes
-     - Sphinx documentation
+     - [Creation of Functions and Classes](filesPackagesDocumentation.pptx)
+     - [Sphinx documentation](sphinxDocumentation.pptx)
 7. Google Collab
     - [Basics](https://1drv.ms/p/s!Ar09XhBKBP2Mm9wMt3wfMCAh0l8jow)
     - Advanced
-8. Postgres database
+8. [Postgres database](PostGresSQL.docx)
    - SQL 
    - Backup and Restore
    - Database Connectivity With Python
